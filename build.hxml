@@ -1,0 +1,10 @@
+-cp src
+-lib polygonal-Printf
+-cpp bin
+
+-main Main
+
+-cmd bin/Main
+
+
+
