@@ -2,116 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd1b56db-9092-4fc8-8717-0f9327ca7f00" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/Build.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/HxcppConfig.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/Main" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/Main.hash" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/Options.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/Main.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/Reflect.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/Std.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/StringBuf.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/Sys.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/Type.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/de/polygonal/Printf.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/de/polygonal/_Printf/FloatType.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/de/polygonal/_Printf/FormatDataType.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/de/polygonal/_Printf/FormatFlags.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/de/polygonal/_Printf/FormatToken.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/de/polygonal/_Printf/IntegerType.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/haxe/IMap.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/haxe/Log.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/haxe/ds/IntMap.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/haxe/io/Eof.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/vm/Vm.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/include/vm/bytecode/Instruction.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/189e2d78_IntMap.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/1f32e779_NoFiles.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/2462cd24_Vm.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/4c14de4c_File.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/4c14de4c_Process.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/4c14de4c_Random.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/4c14de4c_Socket.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/4c14de4c_Sys.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/4d18b5c1_Instruction.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/70f98167___main__.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/809153c0_FloatType.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/809153c0_FormatDataType.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/809153c0_FormatFlags.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/809153c0_FormatToken.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/809153c0_IntegerType.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/84a75be0_Array.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/84a75be0_Dynamic.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/84a75be0_Enum.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/84a75be0_Math.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/84a75be0_String.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/86a724ed_Printf.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/Options.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/__pch/haxe/hxcpp.h.gch" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/__pch/runtime/hxcpp.h.gch" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/a4eda2c0_Eof.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/aea44ed0_Main.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/aea44ed0_Reflect.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/aea44ed0_Std.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/aea44ed0_StringBuf.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/aea44ed0_Sys.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/aea44ed0_Type.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/aea44ed0___boot__.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/aea44ed0___resources__.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/all_objs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/c60986b7_GcCommon.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/c60986b7_GcRegCapture.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/c60986b7_Immix.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_Anon.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_Boot.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_CFFI.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_Class.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_Date.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_Debug.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_Hash.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_Interface.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_Lib.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_Object.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_StdLibs.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/da3c452f_Thread.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/f84b96e9_IMap.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/obj/darwin64/f84b96e9_Log.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/Main.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/Reflect.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/Std.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/StringBuf.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/Sys.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/Type.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/__boot__.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/__files__.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/__lib__.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/__main__.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/__resources__.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/de/polygonal/Printf.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/de/polygonal/_Printf/FloatType.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/de/polygonal/_Printf/FormatDataType.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/de/polygonal/_Printf/FormatFlags.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/de/polygonal/_Printf/FormatToken.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/de/polygonal/_Printf/IntegerType.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/haxe/IMap.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/haxe/Log.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/haxe/ds/IntMap.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/haxe/io/Eof.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/vm/Vm.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../bin/src/vm/bytecode/Instruction.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../build.hxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../simplevm.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/haxe.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../src/Main.hx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../src/vm/Vm.hx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../src/vm/bytecode/Instruction.hx" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -399,10 +291,19 @@
       <option name="presentableId" value="Default" />
       <updated>1523552859150</updated>
     </task>
+    <task id="LOCAL-00001" summary="Simple virtual machine implementation in haxe">
+      <created>1523560389353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523560389353</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -417,7 +318,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -435,6 +336,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Simple virtual machine implementation in haxe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple virtual machine implementation in haxe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
