@@ -50,7 +50,7 @@ class Vm {
         var a,b,addr,regnum;
 
         while (opcode!= Opcodes.HALT && ip < code.length) {
-            if ( trace ) Sys.println(de.polygonal.Printf.format("%-35s",[disInstr()]));
+            if ( trace ) Sys.print(de.polygonal.Printf.format("%-35s",[disInstr()]));
 
             ip++;
 
@@ -103,7 +103,7 @@ class Vm {
             opcode = code[ip];
         }
 
-        if ( trace ) Sys.println(de.polygonal.Printf.format("%-35s",[disInstr()]));
+        if ( trace ) Sys.print(de.polygonal.Printf.format("%-35s",[disInstr()]));
         if ( trace ) Sys.println(stackString());
         if ( trace ) dumpDataMemory();
     }
