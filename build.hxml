@@ -1,10 +1,31 @@
 -cp src
 -lib polygonal-Printf
--cpp bin
-
 -main Main
 
--cmd bin/Main
+
+#Target different build targets
+--each
+
+-cpp bin
+
+
+--next
+
+
+-neko neko/main.n
+
+--next
+
+-java java
+
+--next
+
+-cs cs/vm
+
+#-cmd wine cmd cs/vm/bin/Main.exe
+
+#-cmd neko neko/Main.n
+#-cmd bin/Main
 
 
 
